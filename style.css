@@ -1,0 +1,30 @@
+body {
+background: #cbb5cb;
+text-align: center;
+}
+#main {
+	width: 1000px;
+	height: 2900px;
+	background: #77c8c0;
+	margin: 25px auto;
+	border: solid 2px #675199;
+	padding: 10px;
+}
+h2 {
+	text-align: left;
+	font-size: 14pt;
+	
+}
+h3{
+	text-align: left;
+	font-size: 16pt;
+}
+p{
+	text-align: left;
+	margin-top: 5vh;
+}
+img{
+
+	float: right;
+
+}
